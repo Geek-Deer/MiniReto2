@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+.derecha{
+  float: right;
+    width: 89%;
+  
+}
+.header{
+  background-color: #282c34;
+  border: 2px solid #36b4c5;
+  border-style: solid;
+  border-radius: 5px;
+}
+h1{
+  color: white;
+  text-align: center;
+}
+
+.background{
+  color: #282c34
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+}
+
+table,tr,td {
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.input{
+  margin-right: 1%;
+  background-color: #424b5c;
+  border-radius: 10px;
+  color: white;
+  padding: .5rem;
+  
+}
+
+::placeholder{
+  color:#a9a9a9;
+}
+
+.defaultButton{
+  border-radius: 10px;
+  background-color: #FA9C1D; 
+  color: #3D474A;
+}
+
+.defaultButton:hover{
+  background-color: #3D474A; 
+  color: #FA9C1D;
+}
